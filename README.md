@@ -8,7 +8,9 @@
 
 ## 預計實作工具
 
+- [ ] 生成 UUID
 - [ ] 亂數字串
+- [ ] 動態生成個資用於測試
 - [ ] URL decode & encode
 - [ ] HTML decode & encoded
 - [ ] QR Code | vCard | MeMcard
